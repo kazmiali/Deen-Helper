@@ -1,5 +1,5 @@
 # Deen-Helper
-This is the Official website for Deen's Helpers Foundation.
+This is the official website for Deen's Helpers Foundation.
 
 Contrubutors
 <table>
